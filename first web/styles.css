@@ -1,0 +1,121 @@
+body {
+  background-color: rgb(230, 230, 230);
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+h1,h2,h3{
+  font-family: smooch sans, sans-serif;
+}
+a { cursor: pointer;
+  text-decoration: underline;
+}
+a:hover{
+color: cornflowerblue;
+}
+#navbar {
+  padding: 8px;
+  margin: 0;
+}
+#app label{
+  margin-top: 8px;
+ font-weight: 500;
+}
+.allnames{
+  margin-top: 16px;
+}
+
+#sss :hover{
+  
+  background-color: teal;
+}
+input[value="Submit Application"]{
+color: orangered;
+cursor: pointer;
+}
+#app input ,select{
+  border-radius: 7px;
+  border:2px solid gray;
+  margin-top: 5px;
+  font-size: 15px;
+font-weight: 400;
+  padding: 7px;
+}
+#banner {
+  object-fit: cover;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+}
+#about {
+  display: flex;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 8px;
+}
+#description {
+  font-family: playwrite IN;
+  width: 50%;
+  padding-right: 8px;
+}
+#team {
+  width: 50%;
+}
+#team-image {
+  border-radius: 15px;
+  width: 100%
+}
+h2 {
+  text-align: center;
+}
+#app{
+  max-width: 800px;
+  margin: 0 auto;
+  padding:5px 8px;
+  }
+#jobs {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 8px;
+}
+#footer {
+  background-color: ghostwhite;
+  padding: 8px;
+  margin-top: 32px;
+  text-align: center;
+}
+#footer-links {
+  font-family: playwrite IN;
+  list-style: none;
+}
+#footer-links li {
+  display: inline;
+  margin: 0px 30px;
+}
+.copyright {
+  color: gray;
+}
+#job-table {
+border-collapse: collapse;
+  width: 100%;
+  border-width: 3px;
+  border: solid grey;
+}
+.heading th{
+  font-family: smooch sans;
+  font-size: 20px; 
+  padding: 6px;
+background-color: aliceblue;
+  border:2px solid gray;
+  color: brown;
+}
+.joo td{ 
+  padding: 6px;
+border: 2px solid gray;
+  text-align: center;
+}
+#job-table tr:nth-child(odd){
+background-color: papayawhip;
+}
+
