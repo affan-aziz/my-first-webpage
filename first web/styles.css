@@ -54,6 +54,8 @@ h1 {
 #para:hover{
   font-family: 'Courier New', Courier, monospace;
   background-color: wheat;
+  font-size: 15px;
+  font-weight: 500;
 
 
 
