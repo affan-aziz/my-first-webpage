@@ -48,6 +48,18 @@ font-weight: 400;
 h1 {
   text-align: center;
 }
+
+
+
+#para:hover{
+  font-family: 'Courier New', monospace;
+  background-color: aqua;
+  font-size: 15px;
+  font-weight: 500;
+
+
+
+}
 #about {
   display: flex;
   max-width: 800px;
@@ -72,7 +84,7 @@ h1 {
   border-radius: 15px;
   width: 100%
 }
-h2 {
+#hh{
   text-align: center;
 }
 #app{
